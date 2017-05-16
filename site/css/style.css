@@ -6,13 +6,11 @@ body{
 }
 .mdl-layout__header  .mdl-navigation__link{
     color: #4b4c4d;
+    font-size: 1.3rem;
+
 }
 .logo{
     margin-top:50px;
-}
-.logo img{
-    width: 100px;
-    height: 80px;
 }
 .slide{
     background: url("../images/bgfirebase.jpg") no-repeat center/cover;
