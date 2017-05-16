@@ -1,0 +1,50 @@
+body{
+    background-color: #ececec;
+}
+.mdl-layout__header{
+    background-color: #fff;
+}
+.mdl-layout__header  .mdl-navigation__link{
+    color: #4b4c4d;
+    font-size: 1.3rem;
+
+}
+.logo{
+    margin-top:50px;
+}
+.slide{
+    background: url("../images/bgfirebase.jpg") no-repeat center/cover;
+    height: 500px;
+    width: 100%;
+}
+.container{
+    width: 90%;
+    margin:0 auto;
+    height: 500px; /*provicional*/
+}
+.comunidad{
+    margin-top: 30px;
+}
+
+.comunidad img{
+    width:120px;
+    height: 120px;
+}
+.comunidad a {
+    text-decoration: none;
+    color:#4b4c4d;
+}
+.redes{
+    margin-top:100px;
+}
+footer{
+    display: flex;
+    background-color: #fff;
+    color:#4b4c4d;
+    height: 70px;
+    align-items: center;
+}
+.texto{
+    margin:30px auto;
+    font-size: 1.3rem;
+}
