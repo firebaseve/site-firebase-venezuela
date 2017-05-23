@@ -94,6 +94,6 @@ _Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para el
 
 **_¡Importante!: Las contribuciones que no cumpla con las recomendaciones acá expuestas no será aceptadas._**
 
-_Agradecimientos: Comunidad [ngVenezuela](https://github.com/ngVenezuela) por permitirnos usar su [CONTRIBUTING.md](wengy-ven/blob/develop/.github/CONTRIBUTING.md) como base para el nuestro. ¡Mil gracias! 😎_
+_Agradecimientos: Comunidad [ngVenezuela](https://github.com/ngVenezuela) por permitirnos usar su [CONTRIBUTING.md](https://github.com/ngVenezuela/wengy-ven/blob/develop/.github/CONTRIBUTING.md) como base para el nuestro. ¡Mil gracias! 😎_
 
 
