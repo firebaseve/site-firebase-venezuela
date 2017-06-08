@@ -11,6 +11,7 @@ body{
 }
 .logo{
     margin-top:50px;
+    margin-right: 80px;
 }
 .slide{
     background: url("../images/bgfirebase.jpg") no-repeat center/cover;
@@ -47,4 +48,17 @@ footer{
 .texto{
     margin:30px auto;
     font-size: 1.3rem;
+}
+/* Fix y Responsive */
+.mdl-layout__header-row{
+    padding-right: 40px; 
+}
+.mdl-layout__header .mdl-layout__drawer-button{
+    color:#4b4c4d;
+}
+.logo-responsive{
+    margin-right: -20px;
+}
+.logo-responsive img{
+    width: 46px;
 }
